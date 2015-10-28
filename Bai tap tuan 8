@@ -1,0 +1,22 @@
+Bug 1: Trang truongnha.com không có chức năng đăng ký mà lại có chức năng đăng nhập
+
+Bug 2: Trên trang truongnha.com, lưu lại được số điện thoại không hợp lệ
+-	Chọn Dùng thử -> Quản lý trường học
+-	Chọn Thông tin nhà trường
+-	Ở tab Thông tin chung, nhấn nút sửa
+-	Sửa lại số điện thoại thành 0916236945djf
+-	Nhấn cập nhật -> thành công
+
+Bug 3: Trên trang truongnha.com, lưu lại được email không đúng định dạng
+-	Chọn Dùng thử -> Quản lý trường học
+-	Chọn Thông tin nhà trường
+-	Ở tab Thông tin chung, nhấn nút sửa
+-	Cập nhật email là abcxyz
+-	Nhấn cập nhật -> thành công
+
+Bug 4: Lỗi thêm sách trên trang sachmem.saokhuee.com
+-	Đăng ký -> Đăng nhập vào trang
+-	Chọn Thêm sách
+-	Hiển thị trang lỗi
+
+Bug 5: Phần cập nhật thông tin cá nhân trên trang sachmem.saokhuee.com có thể nhập ngay mật khẩu mới mà không cần xác nhân mật khẩu hiện tại -> Không bảo mật
